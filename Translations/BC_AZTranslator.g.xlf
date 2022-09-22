@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="BC_AZTranslator">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3586942640 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Az Language Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Az Language Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3586942640 - Field 123574121 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AZ Description Language</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Az Language Code - Field AZ Description Language - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3586942640 - Field 1018301127 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AZ Languge COde</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Az Language Code - Field AZ Languge COde - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1553033038 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AZ Translator Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AZ Translator Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1553033038 - Field 4253087169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AZ Translator Setup - Field API Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1553033038 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AZ Translator Setup - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1553033038 - Field 2241665020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Region</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AZ Translator Setup - Field Region - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1553033038 - Field 1360901578 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>URI Language Syncronize</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AZ Translator Setup - Field URI Language Syncronize - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1553033038 - Field 2087963598 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>URI Language Translator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AZ Translator Setup - Field URI Language Translator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3623418512 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup AZ Language</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Az Language COde - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3623418512 - Control 123574121 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description Language</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Az Language COde - Control AZ Description Language - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3623418512 - Control 1018301127 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Language COde</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Az Language COde - Control AZ Languge COde - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1770721079 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PageTranslator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PageTranslator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1770721079 - Control 891173821 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>From Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PageTranslator - Control FromText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1770721079 - Control 214393890 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Translation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PageTranslator - Control TOText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1770721079 - Control 2005426593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Language Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PageTranslator - Control languageText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1539449166 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup AZ Translator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Setup AZ Translator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1539449166 - Control 4253087169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Setup AZ Translator - Control API Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1539449166 - Control 2241665020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Region</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Setup AZ Translator - Control Region - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1539449166 - Control 1360901578 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>URI Language</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Setup AZ Translator - Control URI Language Syncronize - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1539449166 - Control 2087963598 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>URI Translator</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Setup AZ Translator - Control URI Language Translator - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1539449166 - Action 4030042094 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Language Syncronize</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Setup AZ Translator - Action Syncronize - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
